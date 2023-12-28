@@ -1,4 +1,4 @@
 fn main(){
     let x:u32=4;
-    println!(x);
+    println!("x is {}",x);
 }
