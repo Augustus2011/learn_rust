@@ -11,7 +11,7 @@ fn main(){
 
     let animal=Animal{
         name:"foo".to_string(),
-        age:42u8,
+        age:42,
         
     };
     
